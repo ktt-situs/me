@@ -1,0 +1,13 @@
+# Robots.txt untuk KOKOTOTO
+User-agent: *
+Allow: /
+
+# Bot Search Engine Spesifik
+User-agent: Googlebot
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+# Lokasi Sitemap XML
+Sitemap: https://ktt-situs.github.io/me//sitemap.xml
